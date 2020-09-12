@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599484160 source:d:\cc++\codeblock projects\c\dg_typingpractice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
